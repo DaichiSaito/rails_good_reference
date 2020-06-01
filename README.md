@@ -3,15 +3,22 @@ Railsおよびその周辺知識に関する参考記事をまとめる
 
 # 全般
 [Ruby on Rails ガイド：体系的に Rails を学ぼう](https://railsguides.jp/)
+
 [Ruby on Rails API](https://api.rubyonrails.org/)
+
 [RUNTEQの講師をやってみてわかった初学者にありがちなパターン20選（前編） \- Qiita](https://qiita.com/DaichiSaito/items/52448ebfcb0db768dcf3)
+
 [RUNTEQの講師をやってみてわかった初学者にありがちなパターン20選（後編） \- Qiita](https://qiita.com/DaichiSaito/items/cd66115569b0a75f1bfa)
+
 [Ruby on Railsを使った開発で参照してもよいドキュメント \- Qiita](https://qiita.com/hanachin_/items/76a24bcef889edb59d19)
+
 [運用に耐えるRailsによるWebアプリケーションの作り方 \- Qiita](https://qiita.com/seri_k/items/605e6f75da838ae00007)
 
 # ActiveRecord
 [Rails における内部結合、外部結合まとめ \- Qiita](https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30)
+
 [SQL素人でも分かるテーブル結合\(inner joinとouter join\) \- Qiita](https://qiita.com/naoki_mochizuki/items/3fda1ad6594c11d7b43c)
+
 [そろそろポリモーフィック関連について一言いっとくか \- Qiita](https://qiita.com/joker1007/items/9da1e279424554df7bb8)
 
 # ルーティング
@@ -21,9 +28,13 @@ Railsおよびその周辺知識に関する参考記事をまとめる
 
 # RSpec
 [使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」 \- Qiita](https://qiita.com/jnchito/items/42193d066bd61c740612)
+
 [使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」 \- Qiita](https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5)
+
 [使えるRSpec入門・その3「ゼロからわかるモック（mock）を使ったテストの書き方」 \- Qiita](https://qiita.com/jnchito/items/640f17e124ab263a54dd)
+
 [使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」 \- Qiita](https://qiita.com/jnchito/items/607f956263c38a5fec24)
+
 [Capybaraチートシート \- Qiita](https://qiita.com/morrr/items/0e24251c049180218db4)
 
 # 例外処理
