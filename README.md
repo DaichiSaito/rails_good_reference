@@ -46,3 +46,12 @@ Railsおよびその周辺知識に関する参考記事をまとめる
 
 # 文法など
 [\[初心者向け\] RubyやRailsでリファクタリングに使えそうなイディオムとか便利メソッドとか \- Qiita](https://qiita.com/jnchito/items/dedb3b889ab226933ccf)
+
+# API
+[はじめてのRails API \- Qiita](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
+
+[綺麗なAPI速習会 \- Qiita](https://qiita.com/shimastripe/items/e9b0e1f8f8d77b89373f)
+
+[マイクロサービス指向 Rails API 開発ガイド/building rails api on microservices \- Speaker Deck](https://speakerdeck.com/qsona/building-rails-api-on-microservices)
+
+[Rails: ActiveModelSerializersでAPIを作る–Part 1（翻訳）｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2017_09_28/45536)
