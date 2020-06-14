@@ -1,5 +1,8 @@
 # rails_good_reference
-Railsおよびその周辺知識に関する参考記事をまとめる
+**初学者向け**
+
+Railsおよびその周辺知識に関する参考記事をまとめる。
+
 
 # 全般
 [Ruby on Rails ガイド：体系的に Rails を学ぼう](https://railsguides.jp/)
@@ -24,6 +27,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる
 [そろそろポリモーフィック関連について一言いっとくか \- Qiita](https://qiita.com/joker1007/items/9da1e279424554df7bb8)
 
 # ルーティング
+[render と redirect の違い \- Qiita](https://qiita.com/january108/items/54143581ab1f03deefa1)
+
 [DHHはどのようにRailsのコントローラを書くのか \| POSTD](https://postd.cc/how-dhh-organizes-his-rails-controllers/)
 
 [DHH流のルーティングで得られるメリットと、取り入れる上でのポイント \- KitchHike Tech Blog](https://tech.kitchhike.com/entry/2017/03/07/190739)
