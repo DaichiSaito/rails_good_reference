@@ -14,6 +14,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる
 
 [運用に耐えるRailsによるWebアプリケーションの作り方 \- Qiita](https://qiita.com/seri_k/items/605e6f75da838ae00007)
 
+[Rails開発者が採用面接で聞かれる想定Q&A 53問（翻訳）｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2020_05_13/91211)
+
 # ActiveRecord
 [Rails における内部結合、外部結合まとめ \- Qiita](https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30)
 
