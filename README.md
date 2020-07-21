@@ -44,6 +44,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [Capybaraチートシート \- Qiita](https://qiita.com/morrr/items/0e24251c049180218db4)
 
+[Railsアプリの設計 \- Speaker Deck](https://speakerdeck.com/sinsoku/railsapurifalseshe-ji)
+
 # 例外処理
 [Railsの例外処理はどう書くべきか？（またはどうなくすべきか？） \- YouTube](https://www.youtube.com/watch?v=jFBvEQhApKQ)
 
