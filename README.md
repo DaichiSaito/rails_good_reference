@@ -64,3 +64,6 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 [マイクロサービス指向 Rails API 開発ガイド/building rails api on microservices \- Speaker Deck](https://speakerdeck.com/qsona/building-rails-api-on-microservices)
 
 [Rails: ActiveModelSerializersでAPIを作る–Part 1（翻訳）｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2017_09_28/45536)
+
+# その他
+[コミットメッセージの書き方\. 適切な情報を残そう \| by risacan \| Medium](https://medium.com/@risacan/%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9-64aeadd92057)
