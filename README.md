@@ -71,3 +71,7 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 [コミットメッセージの書き方\. 適切な情報を残そう \| by risacan \| Medium](https://medium.com/@risacan/%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9-64aeadd92057)
 
 [データベーステーブル設計の基礎の基礎〜エンティティの抽出・定義から正規化まで \- エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2018/06/22/110000)
+
+[はじめてのテーブル設計・データベース設計【わかりやすい解説 \+ 身近なテーマでレッスン】 \| Udemy](https://www.udemy.com/course/hajimete-ronrisekkei/)
+
+[3時間で学ぶ SQL ・データベース 超入門【丁寧な解説\+演習問題で SQL データ抽出の基本が身につく】標準 SQL \| Udemy](https://www.udemy.com/course/sql-begginer/)
