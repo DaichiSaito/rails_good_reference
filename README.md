@@ -21,6 +21,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [レールの伸ばし方 \- Speaker Deck](https://speakerdeck.com/willnet/rerufalseshen-basifang)
 
+[Railsアプリの設計 \- Speaker Deck](https://speakerdeck.com/sinsoku/railsapurifalseshe-ji)
+
 # ActiveRecord
 [Rails における内部結合、外部結合まとめ \- Qiita](https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30)
 
@@ -46,7 +48,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [Capybaraチートシート \- Qiita](https://qiita.com/morrr/items/0e24251c049180218db4)
 
-[Railsアプリの設計 \- Speaker Deck](https://speakerdeck.com/sinsoku/railsapurifalseshe-ji)
+[RSpec スタイルガイド](https://github.com/willnet/rspec-style-guide)
+
 
 # 例外処理
 [Railsの例外処理はどう書くべきか？（またはどうなくすべきか？） \- YouTube](https://www.youtube.com/watch?v=jFBvEQhApKQ)
