@@ -15,6 +15,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [Ruby on Railsを使った開発で参照してもよいドキュメント \- Qiita](https://qiita.com/hanachin_/items/76a24bcef889edb59d19)
 
+[Railsに関する記事まとめ \| Pikawaka \- ピカ1わかりやすいプログラミング用語サイト](https://pikawaka.com/rails)
+
 [運用に耐えるRailsによるWebアプリケーションの作り方 \- Qiita](https://qiita.com/seri_k/items/605e6f75da838ae00007)
 
 [Rails開発者が採用面接で聞かれる想定Q&A 53問（翻訳）｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2020_05_13/91211)
