@@ -48,6 +48,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」 \- Qiita](https://qiita.com/jnchito/items/607f956263c38a5fec24)
 
+[今日から使える！RSpec 3で追加された8つの新機能 \- Qiita](https://qiita.com/jnchito/items/a4a51852c2c678b57868)
+
 [Capybaraチートシート \- Qiita](https://qiita.com/morrr/items/0e24251c049180218db4)
 
 [RSpec スタイルガイド](https://github.com/willnet/rspec-style-guide)
