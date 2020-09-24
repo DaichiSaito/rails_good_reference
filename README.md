@@ -25,6 +25,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [Railsアプリの設計 \- Speaker Deck](https://speakerdeck.com/sinsoku/railsapurifalseshe-ji)
 
+[【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸 \- Qiita](https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1)
+
 # ActiveRecord
 [Rails における内部結合、外部結合まとめ \- Qiita](https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30)
 
