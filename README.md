@@ -56,6 +56,7 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [RSpec スタイルガイド](https://github.com/willnet/rspec-style-guide)
 
+[FactoryBot the Right Way / toshimaru](https://www.youtube.com/watch?v=n0epZM-lZvw&feature=youtu.be)
 
 # 例外処理
 [Railsの例外処理はどう書くべきか？（またはどうなくすべきか？） \- YouTube](https://www.youtube.com/watch?v=jFBvEQhApKQ)
