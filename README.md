@@ -41,6 +41,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [DHH流のルーティングで得られるメリットと、取り入れる上でのポイント \- KitchHike Tech Blog](https://tech.kitchhike.com/entry/2017/03/07/190739)
 
+[リソースモデリングパターン](http://rest-pattern.hatenablog.com/)
+
 # RSpec
 [使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」 \- Qiita](https://qiita.com/jnchito/items/42193d066bd61c740612)
 
