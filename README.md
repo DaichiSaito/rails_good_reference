@@ -31,6 +31,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [\(7\) プログラミング初心者歓迎！「エラーが出ました。どうすればいいですか？」から卒業するための基本と極意 \- YouTube](https://www.youtube.com/watch?v=5fyrGslhUcY)
 
+[Rubyのattr\_accessorって何？\[和訳\] \- bryankawaの日記](http://bryankawa.hatenablog.com/entry/2017/01/28/150537)
+
 # ActiveRecord
 [Rails における内部結合、外部結合まとめ \- Qiita](https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30)
 
