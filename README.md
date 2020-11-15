@@ -27,6 +27,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸 \- Qiita](https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1)
 
+[【Rails】アソシエーションを図解形式で徹底的に理解しよう！ \| Pikawaka \- ピカ1わかりやすいプログラミング用語サイト](https://pikawaka.com/rails/association)
+
 [プログラミング初心者歓迎！「エラーが出ました。どうすればいいですか？」から卒業するための基本と極意（解説動画付き） \- Qiita](https://qiita.com/jnchito/items/056325421b7e36f02335)
 
 [\(7\) プログラミング初心者歓迎！「エラーが出ました。どうすればいいですか？」から卒業するための基本と極意 \- YouTube](https://www.youtube.com/watch?v=5fyrGslhUcY)
