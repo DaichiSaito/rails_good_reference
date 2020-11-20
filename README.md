@@ -42,6 +42,11 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [そろそろポリモーフィック関連について一言いっとくか \- Qiita](https://qiita.com/joker1007/items/9da1e279424554df7bb8)
 
+# View/Controller
+[【Rails】form\_withの使い方を徹底解説！ \| Pikawaka \- ピカ1わかりやすいプログラミング用語サイト](https://pikawaka.com/rails/form_with)
+
+[redirect\_to @userが何を省略しているかわかりますか？〜挫折しないRailsチュートリアル７章〜 \- Qiita](https://qiita.com/Kawanji01/items/96fff507ed2f75403ecb#%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%8B%E3%82%89%E8%87%AA%E5%8B%95%E3%81%A7id%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8Brails)
+
 # ルーティング
 [render と redirect の違い \- Qiita](https://qiita.com/january108/items/54143581ab1f03deefa1)
 
