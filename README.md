@@ -56,6 +56,10 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [リソースモデリングパターン](http://rest-pattern.hatenablog.com/)
 
+[Railsのルーティングを極める\(前編\)｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社](https://techracho.bpsinc.jp/baba/2020_11_18/15665)
+
+[Railsのルーティングを極める \(後編\)｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社](https://techracho.bpsinc.jp/baba/2020_11_20/15619)
+
 # RSpec
 [使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」 \- Qiita](https://qiita.com/jnchito/items/42193d066bd61c740612)
 
