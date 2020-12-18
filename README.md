@@ -77,6 +77,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [FactoryBot the Right Way / toshimaru](https://www.youtube.com/watch?v=n0epZM-lZvw&feature=youtu.be)
 
+[Clean Test Code Revised \- Speaker Deck](https://speakerdeck.com/willnet/clean-test-code-revised)
+
 # 例外処理
 [Railsの例外処理はどう書くべきか？（またはどうなくすべきか？） \- YouTube](https://www.youtube.com/watch?v=jFBvEQhApKQ)
 
