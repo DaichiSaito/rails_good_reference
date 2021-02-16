@@ -106,3 +106,5 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 [はじめてのテーブル設計・データベース設計【わかりやすい解説 \+ 身近なテーマでレッスン】 \| Udemy](https://www.udemy.com/course/hajimete-ronrisekkei/)
 
 [3時間で学ぶ SQL ・データベース 超入門【丁寧な解説\+演習問題で SQL データ抽出の基本が身につく】標準 SQL \| Udemy](https://www.udemy.com/course/sql-begginer/)
+
+[【初心者向け】「コミットの粒度がわからない問題」の模範解答を考えてみた \- Qiita](https://qiita.com/jnchito/items/40e0c7d32fde352607be)
