@@ -35,6 +35,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [Rubyのattr\_accessorって何？\[和訳\] \- bryankawaの日記](http://bryankawa.hatenablog.com/entry/2017/01/28/150537)
 
+[【Rails】MVCフレームワークを1から丁寧に解説！ \| Pikawaka \- ピカ1わかりやすいプログラミング用語サイト](http://pikawaka.com/rails/mvc)
+
 # ActiveRecord
 [Rails における内部結合、外部結合まとめ \- Qiita](https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30)
 
