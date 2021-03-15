@@ -29,6 +29,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [【Rails】アソシエーションを図解形式で徹底的に理解しよう！ \| Pikawaka \- ピカ1わかりやすいプログラミング用語サイト](https://pikawaka.com/rails/association)
 
+[Rails アプリケーションのデバッグ \- Railsガイド](https://railsguides.jp/debugging_rails_applications.html#byebug-gem%E3%81%A7%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%81%99%E3%82%8B)
+
 [プログラミング初心者歓迎！「エラーが出ました。どうすればいいですか？」から卒業するための基本と極意（解説動画付き） \- Qiita](https://qiita.com/jnchito/items/056325421b7e36f02335)
 
 [\(7\) プログラミング初心者歓迎！「エラーが出ました。どうすればいいですか？」から卒業するための基本と極意 \- YouTube](https://www.youtube.com/watch?v=5fyrGslhUcY)
