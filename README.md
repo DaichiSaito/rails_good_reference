@@ -102,6 +102,13 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [Rails: ActiveModelSerializersでAPIを作る–Part 1（翻訳）｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2017_09_28/45536)
 
+# rubyに慣れるために
+[問題 \- AtCoder Beginners Selection](https://atcoder.jp/contests/abs/tasks)
+
+[AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)
+
+[Rubyで競プロするときのTips \- ARMERIA](https://betrue12.hateblo.jp/entry/2018/12/01/224748) ← 入出力編は押さえといた方がいいです。よく使うので。
+
 # その他
 [コミットメッセージの書き方\. 適切な情報を残そう \| by risacan \| Medium](https://medium.com/@risacan/%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9-64aeadd92057)
 
