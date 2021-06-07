@@ -93,6 +93,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 # 文法など
 [\[初心者向け\] RubyやRailsでリファクタリングに使えそうなイディオムとか便利メソッドとか \- Qiita](https://qiita.com/jnchito/items/dedb3b889ab226933ccf)
 
+[satour/rails\-style\-guide\-jp: 有志による Ruby on Rails 4 のスタイル・ガイドです。](https://github.com/satour/rails-style-guide-jp)
+
 # API
 [はじめてのRails API \- Qiita](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
 
