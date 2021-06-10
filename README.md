@@ -39,6 +39,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [【Rails】MVCフレームワークを1から丁寧に解説！ \| Pikawaka \- ピカ1わかりやすいプログラミング用語サイト](http://pikawaka.com/rails/mvc)
 
+[Only My Rails Way](https://zenn.dev/yukito0616/articles/d3b7032e9f1e90)
+
 # ActiveRecord
 [Rails における内部結合、外部結合まとめ \- Qiita](https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30)
 
@@ -82,6 +84,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 [FactoryBot the Right Way / toshimaru](https://www.youtube.com/watch?v=n0epZM-lZvw&feature=youtu.be)
 
 [Clean Test Code Revised \- Speaker Deck](https://speakerdeck.com/willnet/clean-test-code-revised)
+
+[rspecを読みやすくメンテしやすく書くために](https://zenn.dev/yuji_developer/articles/52cc0e356b3748)
 
 # 例外処理
 [Railsの例外処理はどう書くべきか？（またはどうなくすべきか？） \- YouTube](https://www.youtube.com/watch?v=jFBvEQhApKQ)
