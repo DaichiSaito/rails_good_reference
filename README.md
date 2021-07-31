@@ -125,3 +125,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 [3時間で学ぶ SQL ・データベース 超入門【丁寧な解説\+演習問題で SQL データ抽出の基本が身につく】標準 SQL \| Udemy](https://www.udemy.com/course/sql-begginer/)
 
 [【初心者向け】「コミットの粒度がわからない問題」の模範解答を考えてみた \- Qiita](https://qiita.com/jnchito/items/40e0c7d32fde352607be)
+
+
+[ミクシィの21新卒技術研修の資料と動画を公開します！ \- mixi developers](https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0)
+
+[2021年のエンジニア新人研修の講義資料を公開しました \- Cybozu Inside Out \| サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2021/07/20/100000)
