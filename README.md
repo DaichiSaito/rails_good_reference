@@ -134,3 +134,5 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 [ミクシィの21新卒技術研修の資料と動画を公開します！ \- mixi developers](https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0)
 
 [2021年のエンジニア新人研修の講義資料を公開しました \- Cybozu Inside Out \| サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2021/07/20/100000)
+
+[Linux標準教科書 ダウンロード LinuCレベル1対応 \| Linux技術者認定試験 リナック \| LPI\-Japan](https://linuc.org/textbooks/linux/form.php)
