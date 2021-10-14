@@ -124,6 +124,8 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 
 [データベーステーブル設計の基礎の基礎〜エンティティの抽出・定義から正規化まで \- エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2018/06/22/110000)
 
+[【DB設計入門\|ER図\|MySQL】コンビニレシートから学ぶ！データモデリング手法 \| Wedding Park CREATORS Blog](https://engineers.weddingpark.co.jp/mysql-database-design/)
+
 [はじめてのテーブル設計・データベース設計【わかりやすい解説 \+ 身近なテーマでレッスン】 \| Udemy](https://www.udemy.com/course/hajimete-ronrisekkei/)
 
 [3時間で学ぶ SQL ・データベース 超入門【丁寧な解説\+演習問題で SQL データ抽出の基本が身につく】標準 SQL \| Udemy](https://www.udemy.com/course/sql-begginer/)
