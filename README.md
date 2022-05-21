@@ -140,3 +140,5 @@ Railsおよびその周辺知識に関する参考記事をまとめる。
 [Linux標準教科書 ダウンロード LinuCレベル1対応 \| Linux技術者認定試験 リナック \| LPI\-Japan](https://linuc.org/textbooks/linux/form.php)
 
 [Webフロントエンド基礎研修 ~歴史から学ぶ、現場のスタンダードな開発~ \- Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vSjF1cp8fAdMKwFkLmtFT66e-UCD6zanO5KLsuRFmWyZ-8c06YQmgWT750Aqai2JfqHRARYWlkDLfaB/pub?slide=id.p)
+
+[わかりやすい技術記事を書くための心構えとテクニック / \#railsdm 20171206 \- Speaker Deck](https://speakerdeck.com/jnchito/number-railsdm-20171206)
